@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large / local-only
+*.pt
+data/*.mp4
+outputs/
